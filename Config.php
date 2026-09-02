@@ -8,10 +8,10 @@
  */
 
 // ========== UPDATE THESE 4 LINES ==========
-$DB_HOST     = "localhost";           // GoDaddy: usually "localhost"
+$DB_HOST     = "localhost:3306";           // GoDaddy: usually "localhost"
 $DB_NAME     = "LaneShare_db";        // Your database name
-$DB_USER     = "your_username";       // Your MySQL username
-$DB_PASS     = "your_password";       // Your MySQL password
+$DB_USER     = "Kramd";       // Your MySQL username
+$DB_PASS     = "Kramashiudani1";       // Your MySQL password
 // =========================================
 
 // Allow requests from your mobile app
